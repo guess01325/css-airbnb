@@ -3,9 +3,42 @@ h1 {
 }
 .photos{
   display:flex;
-  height: 300px;
-  width: 300px;
+  justify-content: center;
+  
+  text-align: center;
+
+}
+
+.upperText{
+  text-align: center;
+  
+}
+
+.centerText {
+
   text-align: center;
 }
 
+.button {
 
+  text-align: center;
+
+
+ 
+
+
+
+}
+button {
+height: 25px;
+width: 300px;
+text-align: center;
+margin: 50px;
+background-color: white;
+
+}
+
+img {
+  height: 300px;
+  width: 300px;
+}
